@@ -14,7 +14,7 @@ The objective was to build a production-ready relational schema and implement la
 
 Database Design (Week 1)
 
-Core Tables Created
+ Core Tables Created
 
 customers
 
