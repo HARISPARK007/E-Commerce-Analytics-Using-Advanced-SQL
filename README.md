@@ -57,6 +57,7 @@ Supports non-trivial analytical reporting
 Maintains data integrity across relationships
 
 Analytical Themes Covered
+
 1️⃣ Customer Analytics
 
 Monthly Revenue Trend with MoM % Change
